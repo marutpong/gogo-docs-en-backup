@@ -18,7 +18,9 @@ The same program written in Tinker looks like this:
 
 Click “**Download**” in the GoGo Widget or “**Write to GoGo Board**” in Tinker to send this program to the GoGo Board. Before sending, the program will be checked for errors. If there are any errors, a message will appear allowing fixes to be made. If the program is successfully saved, the GoGo Board will beep once.
 
+{% hint style="info" %}
 When using Tinker, remember to keep the GoGo Widget running in the background. Tinker requires the GoGo Widget in order to communicate with the GoGo Board.
+{% endhint %}
 
 The last step is to run this program. This can be done by clicking on the “Run/Stop” button on the screen or by pressing the physical “Run!” button on the GoGo Board itself. In this example, when the program runs, the GoGo Board will beep ten times. A red “run” LED on the lower-right of the GoGo Board will light up while a program is running and will go off when the program is completed. The whole process is illustrated below.
 
